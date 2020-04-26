@@ -1,0 +1,3 @@
+#Now you learn some damn respect
+if strftime("%I:%M", gmtime()) == "01:11":#this is GMT
+    webhook.send("911")
